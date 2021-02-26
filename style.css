@@ -1,0 +1,12 @@
+h1 {
+    font-size: 25px !important;
+}
+button {
+    font-size: 15px !important;
+}
+.btn-success:hover {
+    background-color:red;
+}
+canvas {
+    border-style: dashed 7px #000;
+}
